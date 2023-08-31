@@ -1,4 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<% 
+   String greeting = "Hello, Learner!";
+%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -32,7 +35,6 @@
         <h2>Embarking on the DevOps Journey?</h2>
         <p style="font-size: 1.5em; margin-top: 20px;">You're in the right place with <span class="highlight">DevopClinics</span> as your navigator!</p>
         <h3 style="color: #2ecc71;">We're thrilled to have you onboard. Dive right in and let the learning begin!</h3>
-        <p style="font-size: 1.2em; margin-top: 20px; font-style: italic;">Remember, every expert was once a beginner. Keep pushing forward!</p>
     </div>
 </body>
 </html>
