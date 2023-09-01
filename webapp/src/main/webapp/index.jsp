@@ -32,9 +32,8 @@
 <body>
     <div class="centered-box">
         <h1 style="color: #ff4500; font-size: 2.5em;"><%= greeting %></h1>
-        <h2>Embarking on the DevOps Journey?</h2>
-        <p style="font-size: 1.5em; margin-top: 20px;">You're in the right place with <span class="highlight">DevopClinics</span> as your navigator!</p>
-        <h3 style="color: #2ecc71;">We're thrilled to have you onboard. Dive right in and let the learning begin!</h3>
+        <h2>Embarking on the DevOps Journey with caltech </h2>
+       
     </div>
 </body>
 </html>
