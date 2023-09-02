@@ -32,7 +32,7 @@
 <body>
     <div class="centered-box">
         <h1 style="color: #ff4500; font-size: 2.5em;"><%= greeting %></h1>
-        <h2>Embarking on the DevOps Journey with caltech </h2>
+        <h2>Embarking on the DevOps Journey with DevopClinics </h2>
        
     </div>
 </body>
